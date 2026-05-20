@@ -74,7 +74,7 @@ export const projects: Project[] = [
     description:
       "Sistema web de gestão operacional com autenticação, Supabase, PostgreSQL e controle de presença.",
     techs: ["Next.js", "TypeScript", "Supabase", "PostgreSQL"],
-    href: "#",
+    href: "https://gop-v2.vercel.app/",
     summary:
       "Sistema web para gestão de presença operacional, criado para simplificar o controle diário de colaboradores, exceções e chamadas pendentes. A aplicação centraliza login, dashboard executivo e fluxo de chamada diária em uma interface responsiva, clara e orientada ao uso recorrente por supervisores.",
     technical:
