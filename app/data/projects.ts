@@ -41,7 +41,7 @@ export const projects: Project[] = [
     description:
       "Dashboard executivo com KPIs comerciais, receita, margem, ticket médio, categorias, estados e vendedores.",
     techs: ["Power BI", "DAX", "Power Query", "PostgreSQL"],
-    href: "#",
+    href: "https://github.com/kevynribeiroferrezin/PBIs",
     summary:
       "Dashboard comercial desenvolvido em Power BI para análise executiva de faturamento, lucro, margem, ticket médio e crescimento de KPIs. A solução organiza indicadores de performance por período, categoria, equipe, vendedor e estado, permitindo uma leitura rápida dos principais motores de receita.",
     technical:
